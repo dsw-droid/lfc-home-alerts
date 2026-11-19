@@ -1,0 +1,199 @@
+{
+  "consecutive_failures": 0,
+  "initialised": true,
+  "last_total_entries": 76,
+  "matches": {
+    "liverpool-champions-league-fc-porto-202627": {
+      "entries": {
+        "Priority Right Holders": "Wed 18 Nov 2026, 11:00am",
+        "Season Ticket Holders and All Red Members": "Thu 19 Nov 2026, 08:15am",
+        "Season Ticket Holders and All Red Members #2": "Wed 18 Nov 2026, 14:00pm",
+        "Season Ticket Holders and All Red Members #3": "Fri 20 Nov 2026, 08:15am",
+        "Season Ticket Holders and All Red Members #4": "Fri 20 Nov 2026, 15:00pm",
+        "Season Ticket Holders and All Red Members Who Require A Wheelchair Bay": "Thu 19 Nov 2026, 08:15am",
+        "Season Ticket Holders and All Red Members Who Require A Wheelchair Bay #2": "Wed 18 Nov 2026, 14:00pm",
+        "Season Ticket Holders and All Red Members Who Require A Wheelchair Bay #3": "Fri 20 Nov 2026, 08:15am"
+      },
+      "kickoff": "20:00 / WED 9 DEC",
+      "name": "Liverpool v FC Porto",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-fc-porto-202627"
+    },
+    "liverpool-champions-league-rc-lens-202627": {
+      "entries": {},
+      "kickoff": "20:00 / WED 27 JAN",
+      "name": "Liverpool v RC Lens",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-champions-league-rc-lens-202627"
+    },
+    "liverpool-v-aston-villa-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "20:00 / WED 3 MAR",
+      "name": "Liverpool v Aston Villa",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-aston-villa-2026-27"
+    },
+    "liverpool-v-bournemouth-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "16:00 / SUN 30 MAY",
+      "name": "Liverpool v Bournemouth",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-2026-27"
+    },
+    "liverpool-v-bournemouth-english-league-cup-20261216": {
+      "entries": {
+        "All Season Ticket Holders and *All Red Members Who Require A Wheelchair Bay": "Wed 2 Dec 2026, 08:15am",
+        "Priority Right Holders": "Tue 1 Dec 2026, 11:00am",
+        "Season Ticket Holders and All Red Members": "Tue 1 Dec 2026, 14:00pm",
+        "Season Ticket Holders and All Red Members #2": "Wed 2 Dec 2026, 08:15am",
+        "Season Ticket Holders and All Red Members Who Require A Wheelchair Bay": "Tue 1 Dec 2026, 14:00pm"
+      },
+      "kickoff": "20:00 / WED 16 DEC",
+      "name": "Liverpool v Bournemouth",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-bournemouth-english-league-cup-20261216"
+    },
+    "liverpool-v-brentford-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 15 MAY",
+      "name": "Liverpool v Brentford",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-brentford-2026-27"
+    },
+    "liverpool-v-chelsea-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 1 MAY",
+      "name": "Liverpool v Chelsea",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-chelsea-2026-27"
+    },
+    "liverpool-v-coventry-english-premier-league-20270201": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 2 JAN",
+      "name": "Liverpool v Coventry City",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-coventry-english-premier-league-20270201"
+    },
+    "liverpool-v-crystal-palace-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 16 JAN",
+      "name": "Liverpool v Crystal Palace",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-crystal-palace-2026-27"
+    },
+    "liverpool-v-everton-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "12:30 / SAT 30 JAN",
+      "name": "Liverpool v Everton",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-everton-2026-27"
+    },
+    "liverpool-v-hull-city-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 20 FEB",
+      "name": "Liverpool v Hull City",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-hull-city-2026-27"
+    },
+    "liverpool-v-ipswich-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 13 MAR",
+      "name": "Liverpool v Ipswich Town",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-ipswich-2026-27"
+    },
+    "liverpool-v-leeds-2026-27": {
+      "entries": {},
+      "kickoff": "15:00 / SAT 12 DEC",
+      "name": "Liverpool v Leeds United",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27"
+    },
+    "liverpool-v-manchester-united-english-premier-league-20261122": {
+      "entries": {
+        "Additional Members Sale": "Mon 16 Nov 2026, 11:00am",
+        "Additional Members Sale Registration": "Fri 6 Nov 2026, 11:00am",
+        "Additional Members Sale Registration #2": "Fri 6 Nov 2026, 11:00am",
+        "Additional Members Sale Registration #3": "Fri 6 Nov 2026, 11:00am",
+        "Additional Members Sale Registration #4": "Fri 6 Nov 2026, 11:00am",
+        "Additional Members Sale Registration #5": "Fri 6 Nov 2026, 11:00am",
+        "Local General Ballot": "Fri 6 Nov 2026, 10:00am",
+        "Local Members Ballot": "Fri 6 Nov 2026, 10:00am",
+        "Young Adult Area Ballot": "Fri 6 Nov 2026, 10:00am"
+      },
+      "kickoff": "16:30 / SUN 22 NOV",
+      "name": "Liverpool v Manchester United",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-manchester-united-english-premier-league-20261122"
+    },
+    "liverpool-v-newcastle-united-2026-27": {
+      "entries": {
+        "All Red Members": "Tue 10 Nov 2026, 08:15am",
+        "All Red Members Ticket Sale Registration": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members Ticket Sale Registration #2": "Mon 26 Oct 2026, 14:00pm",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY": "Mon 9 Nov 2026, 08:15am",
+        "All Red Members who require a wheelchair bay or ambulant seating ONLY #2": "Mon 9 Nov 2026, 13:00pm"
+      },
+      "kickoff": "15:00 / SAT 10 APR",
+      "name": "Liverpool v Newcastle United",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-newcastle-united-2026-27"
+    },
+    "liverpool-v-sunderland-english-premier-league-20261202": {
+      "entries": {
+        "Additional Members Sale": "Mon 23 Nov 2026, 11:00am",
+        "Additional Members Sale Registration": "Tue 17 Nov 2026, 11:00am",
+        "Local General Ballot": "Tue 17 Nov 2026, 10:00am",
+        "Local Members Ballot": "Tue 17 Nov 2026, 10:00am",
+        "Young Adult Area Ballot": "Tue 17 Nov 2026, 10:00am"
+      },
+      "kickoff": "19:30 / WED 2 DEC",
+      "name": "Liverpool v Sunderland",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-sunderland-english-premier-league-20261202"
+    },
+    "liverpool-v-tottenham-hotspur-english-premier-league-20261219": {
+      "entries": {},
+      "kickoff": "17:30 / SAT 19 DEC",
+      "name": "Liverpool v Tottenham Hotspur",
+      "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-tottenham-hotspur-english-premier-league-20261219"
+    }
+  }
+}
