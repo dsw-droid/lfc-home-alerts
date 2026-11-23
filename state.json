@@ -1,7 +1,7 @@
 {
   "consecutive_failures": 0,
   "initialised": true,
-  "last_total_entries": 67,
+  "last_total_entries": 28,
   "matches": {
     "liverpool-champions-league-fc-porto-202627": {
       "entries": {
@@ -156,7 +156,13 @@
       "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-ipswich-2026-27"
     },
     "liverpool-v-leeds-2026-27": {
-      "entries": {},
+      "entries": {
+        "Additional Members Sale": "Mon 7 Dec 2026, 11:00am",
+        "Additional Members Sale Registration": "Mon 30 Nov 2026, 11:00am",
+        "Local General Ballot": "Mon 30 Nov 2026, 10:00am",
+        "Local Members Ballot": "Mon 30 Nov 2026, 10:00am",
+        "Young Adult Area Ballot": "Mon 30 Nov 2026, 10:00am"
+      },
       "kickoff": "15:00 / SAT 12 DEC",
       "name": "Liverpool v Leeds United",
       "url": "https://www.liverpoolfc.com/tickets/match/liverpool-v-leeds-2026-27"
